@@ -1,7 +1,7 @@
 ## 📖 About Me  
 ╭── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╮  
 
-  - Hi! I am **Ries Filip**, known as **CajpyCode**  
+  - Hi! I am **Ries Filip**, known as **Cajpy**  
   - A developer specializing in **Java**, **Python**, and **web technologies**  
   - I have a passion for programming and am constantly learning new technologies  
   - I also have daily motivation for new challenges.
